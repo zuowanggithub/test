@@ -14,4 +14,4 @@ tom.drink()
 
 print(tom)
 addr = id(tom)
-print("%d" % addr)
+print("%d" % addr)  #更新一下
